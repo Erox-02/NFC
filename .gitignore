@@ -1,0 +1,5 @@
+kicad/~*
+kicad/.*
+kicad/~nfc.kicad_sch.lck
+kicad/fp*
+kicad/sym*
