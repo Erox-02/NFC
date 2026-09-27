@@ -112,3 +112,33 @@ ok its done now , now i need styles on it .
 ok i will do tht later 
 
 **Total time spent: 2.5 hours**
+
+# Sept 27 :
+
+today i started with the pcb qr and forgot to document lol . HOW DID I FORGOT to document?
+
+ok anyways imma gonna dump the photos because i forgot to document , its probably the bad effect of lapse .
+
+![](assets/qr.png)
+
+now reversed one 
+
+![](assets/qrr.png)
+
+huh i just wrote this lil in hella so much time ?
+
+![](assets/name.png)
+
+i just changed all the f.silks with b.silks in my qr code's .
+
+HOLY SHIT WhY DIDNT I KNEW ABT IF I JUST FLIP , KICAD AUTO CHANGES , kill me .
+
+ok anyways it done now for today
+
+![](assets/arch.png)
+
+these are the last pics , thx to lapse , i forgot to document my pain .
+
+![](assets/arch_3d.png)
+
+**Total time spent: 2 hours**
