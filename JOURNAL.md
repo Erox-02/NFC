@@ -142,3 +142,30 @@ these are the last pics , thx to lapse , i forgot to document my pain .
 ![](assets/arch_3d.png)
 
 **Total time spent: 2 hours**
+
+# Sept 28 and 29 :
+
+last day i lost my streak because i was  mins late .
+
+today i started with some design change (check lapse )
+
+then i found with pcba i can do the things really cheap so its a good thing , now i need to remove the silkscreen, easy i just made it cover the whole board 
+
+![](assets/top.png)
+
+now the final view ,
+
+![](assets/fin.png)
+
+heres it .
+
+today i did some heavy lifting even before lapse , like fixin the logo , researching abt nf but i forgot to turn lapse on , lol
+
+now the final touch done too , looks like this :
+![](assets/donne.png)
+
+and its done next is to make a bom for pcba in jlcpcb .
+
+thts done too now , check lapse for details , done ::
+
+**Total time spent: 2 hours**

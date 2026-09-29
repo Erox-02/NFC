@@ -3249,7 +3249,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150-220nf"
+		(property "Value" "180 nf"
 			(at 100.076 54.61 0)
 			(show_name no)
 			(do_not_autoplace no)
