@@ -178,4 +178,33 @@ done changed the footprints
 
 ![](assets/yal.png)
 
-**Total time spent: 1.5 hours**
+ok so next imma gonna find the things , correct the bom and submit it right today wait its already after 12 am so today is pretty broad , isnt it?
+
+done all found in lscs , now i can make the .csv 
+done , positions set now whts next? oh uploading to jlc to get the cost  .
+
+my bom and cpl is just so messed up , i fixed it again and again and then after fixing , jlc started giving me website timeout lol.
+
+at last it worked and more suffering , so i though why not take a sc?
+
+![](assets/suf.png)
+
+next i fixed the files by removing the conn_01x05... as thts not a component .
+
+done jlc accepted it holy , i am finally done its something like 27.58$ for 5x but wait i didnt chose thee colour .
+
+i chosed the colours now lets restart the order 
+
+![](assets/comps.png)
+
+component placement is fine too 
+
+![](assets/plc.png)
+
+looks like with the coupon i shld be able to buy it hm .
+
+![](assets/doonne.png)
+
+wait HOLY CRAP forgot to lapse today ahhhhhhhhhh.
+
+**Total time spent: 1.5 hours** 

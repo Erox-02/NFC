@@ -3663,7 +3663,7 @@
 	(footprint "archbtw:wifi"
 		(layer "B.Cu")
 		(uuid "0ce18900-e502-4e8e-8b14-0466aec19671")
-		(at 1343.5 592.5)
+		(at 1345 587.5)
 		(property "Reference" "G***"
 			(at 0 0 0)
 			(layer "B.SilkS")
@@ -7337,6 +7337,22 @@
 		(layer "F.Cu")
 		(net "/SCL")
 		(uuid "3bb66a56-eb6a-418f-ad01-6279ae702fee")
+	)
+	(segment
+		(start 1342.775 593.515034)
+		(end 1343.25 593.515034)
+		(width 0.4)
+		(layer "F.Cu")
+		(net "/SCL")
+		(uuid "412622e6-884f-4b75-bd92-08570fd9e9a1")
+	)
+	(segment
+		(start 1342.5 593.790034)
+		(end 1342.775 593.515034)
+		(width 0.4)
+		(layer "F.Cu")
+		(net "/SCL")
+		(uuid "42287f9b-fca6-440b-830e-cb4b5edee9f6")
 	)
 	(segment
 		(start 1343 596.790034)
