@@ -169,3 +169,13 @@ and its done next is to make a bom for pcba in jlcpcb .
 thts done too now , check lapse for details , done ::
 
 **Total time spent: 2 hours**
+
+# Sept 30 :
+
+Today its the final journal of `NFC` in the software side as today imma gonna clear up some small things , change the res sizes(too hard to find 0402 in lcsc) same for the caps so imma gonna just update the pcb's footprint rather than dying on the once selected parts tht went extinct frm the cart right after i found them.
+
+done changed the footprints 
+
+![](assets/yal.png)
+
+**Total time spent: 1.5 hours**

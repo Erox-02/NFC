@@ -1984,7 +1984,7 @@
 				)
 			)
 		)
-		(property "Footprint" "antenna:ftprnt"
+		(property "Footprint" "footprint:ftprnt"
 			(at 106.68 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -2155,7 +2155,7 @@
 				)
 			)
 		)
-		(property "Value" "trace"
+		(property "Value" "Conn_01x05_Pin"
 			(at 186.944 54.356 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2334,7 +2334,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 239.522 71.12 90)
 			(hide yes)
 			(show_name no)
@@ -3018,7 +3018,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 228.092 71.12 90)
 			(hide yes)
 			(show_name no)
@@ -3100,7 +3100,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 250.952 71.12 90)
 			(hide yes)
 			(show_name no)
@@ -3260,7 +3260,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 104.14 62.23 0)
 			(hide yes)
 			(show_name no)
