@@ -208,3 +208,16 @@ looks like with the coupon i shld be able to buy it hm .
 wait HOLY CRAP forgot to lapse today ahhhhhhhhhh.
 
 **Total time spent: 1.5 hours** 
+
+# Oct 2 : 
+
+gonna write the readme today lol , ik its probably not gonna take a lot of time still gonna finish it . 
+
+---
+![](assets/done.png)
+---
+---
+![alt text](assets/l.png)
+---
+
+**Total time spent: 1 hours**
