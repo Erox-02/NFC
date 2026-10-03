@@ -209,15 +209,14 @@ wait HOLY CRAP forgot to lapse today ahhhhhhhhhh.
 
 **Total time spent: 1.5 hours** 
 
-# Oct 2 : 
+# Oct 3 : 
 
-gonna write the readme today lol , ik its probably not gonna take a lot of time still gonna finish it . 
+gonna write the readme today ->
 
----
-![](assets/done.png)
----
----
-![alt text](assets/l.png)
----
+Done now gonna submit in forge 
+
+![](assets/readme.png)
+
+Dont worry abt the links on the top , its gonna work on github normally 
 
 **Total time spent: 1 hours**

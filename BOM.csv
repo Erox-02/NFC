@@ -1,7 +1,7 @@
-Designator,Comment,Footprint,Quantity,LCSC Part #
-Cap1,180 nf,Capacitor_SMD:C_0603_1608Metric,1,C519440
-D1,LED,LED_0603_1608Metric,1,C19171394
-R1,5k ohm,Resistor_SMD:R_0603_1608Metric,1,C862232
-R2,5k ohm,Resistor_SMD:R_0603_1608Metric,1,C862232
-R3,5k ohm,Resistor_SMD:R_0603_1608Metric,1,C862232
-U1,NT3H2111W0FHKH,XQFN-8_L1.6-W1.6-P0.50-BL_NT3H2111W0FHKH,1,C710403
+Designator,Comment,Footprint,Quantity,LCSC Part #,LCSC Link,Unit Price
+Cap1,180 nf,Capacitor_SMD:C_0603_1608Metric,1,C519440,https://www.lcsc.com/product-detail/C519440.html,$0.0114
+D1,LED,LED_0603_1608Metric,1,C19171394,https://www.lcsc.com/product-detail/C19171394.html,See LCSC
+R1,5k ohm,Resistor_SMD:R_0603_1608Metric,1,C862232,https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RT0603BRE075KL_C862232.html,$0.0293
+R2,5k ohm,Resistor_SMD:R_0603_1608Metric,1,C862232,https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RT0603BRE075KL_C862232.html,$0.0293
+R3,5k ohm,Resistor_SMD:R_0603_1608Metric,1,C862232,https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RT0603BRE075KL_C862232.html,$0.0293
+U1,NT3H2111W0FHKH,XQFN-8_L1.6-W1.6-P0.50-BL_NT3H2111W0FHKH,1,C710403,https://www.lcsc.com/product-detail/NFC-RFID-Tags_NXP-Semiconductors-NT3H2111W0FHKH_C710403.html,$0.6224
