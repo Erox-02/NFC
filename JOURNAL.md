@@ -231,4 +231,4 @@ i upgraded the readme as the reviewer said , changed the build section and added
 
 Now i can submit and sleep uff .
 
-**Total time spent: 1 hours**
+**Total time spent: 0,1 hours**
