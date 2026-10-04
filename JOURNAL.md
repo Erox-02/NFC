@@ -220,3 +220,15 @@ Done now gonna submit in forge
 Dont worry abt the links on the top , its gonna work on github normally 
 
 **Total time spent: 1 hours**
+
+# oct 4 :
+
+i upgraded the readme as the reviewer said , changed the build section and added clear instructions , fixed the broken markdown .
+
+:
+---
+![](assets/fin-readme.png)
+
+Now i can submit and sleep uff .
+
+**Total time spent: 1 hours**

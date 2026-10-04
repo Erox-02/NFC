@@ -56,8 +56,6 @@ with the phone or whatever nfc device youre using.
 
 me , mineself Erox aka Dipanjan  
 
-## Bom 
-
 # BOM 
 
 | Designator | Comment | Footprint | Quantity | LCSC Part # | LCSC Link | Unit Price |
